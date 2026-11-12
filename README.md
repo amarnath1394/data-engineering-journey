@@ -1,2 +1,3 @@
 # data-engineering-journey
-My data engineering learning projects
+Learning projects on my path from Power BI developer to data engineer.
+Uses synthetic data only.
